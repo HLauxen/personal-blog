@@ -1,0 +1,28 @@
+.container {
+    padding-bottom: 76px;
+}
+
+.struct {
+    padding-left: 200px;
+    min-height: 10vh;
+    background-color: rgb(17, 17, 17);
+    display: flex;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    /* justify-content: center; */
+}
+
+.buttonLink {
+    padding: 20px;
+    font-size: 25px;
+    font-family: 'Prompt', sans-serif;
+    font-weight: 500;
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+.buttonLink:hover {
+    color: #8c3fff;
+    
+}
